@@ -23,7 +23,6 @@
     "discord-interactions": "^3.4.0",
     "hono": "^4.0.3",
     "html-to-text": "^9.0.5",
-    "itty-router": "^4.0.13",
     "postal-mime": "^2.0.2"
   },
   "devDependencies": {
@@ -40,6 +39,6 @@
     "prettier": "^3.0.1",
     "sinon": "^17.0.0",
     "typescript": "^5.3.3",
-    "wrangler": "^3.19.0"
+    "wrangler": "^3.28.3"
   }
 }
