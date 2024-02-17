@@ -22,6 +22,7 @@
   },
   "ignorePatterns": [
     "node_modules",
-    "**/*.js" // Ignore all .js files
+    "**/*.js", // Ignore all .js files
+    "**/*.d.ts" // Ignore all .d.ts files
   ]
 }
